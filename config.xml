@@ -6,7 +6,7 @@
         id        = "com.what.why"
         version   = "1.2.14">
 
-    <name>Not Hello World</name>
+    <name>pg-rookie-screen2</name>
 
     <description>
         Hello World sample application that responds to the deviceready event.
