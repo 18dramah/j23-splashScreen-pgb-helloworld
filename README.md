@@ -1,4 +1,4 @@
-pgb-helloworld-splashScreen
+splashScreen-pgb-helloworld
 =================
 
 Got the splash screen working on Android using a Samsung Galaxy S3
