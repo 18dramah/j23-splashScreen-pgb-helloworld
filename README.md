@@ -9,3 +9,12 @@ steps.
 3. three make splash.png file (You actually neesd to know how to use github to transfer the file.)
 4. If using a private build then the file is just contained in your zipped folder
 
+
+
+
+
+
+
+************************************************************************************************************
+
+###Disclaimer: I spend my time getting complex things working in simple ways. I have no idea if I am doing anything correctly so please beware if you use my work. My website is at http://www.rocksetta.com
